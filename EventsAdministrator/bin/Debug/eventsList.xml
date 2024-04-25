@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <Title>Prezentacja</Title>
+    <Info>Prezentacja przed klientem</Info>
+    <Date>2024-05-04T00:50:33</Date>
+    <Type>Praca</Type>
+    <Priority>Średni</Priority>
+  </Event>
+  <Event>
+    <Title>Urodziny Mamy</Title>
+    <Info>Restauracja o 18:00</Info>
+    <Date>2024-04-28T00:50:54</Date>
+    <Type>Rodzina</Type>
+    <Priority>Wysoki</Priority>
+  </Event>
+  <Event>
+    <Title>Siłownia</Title>
+    <Info>Trening brzucha</Info>
+    <Date>2024-05-06T00:51:16</Date>
+    <Type>Sport</Type>
+    <Priority>Niski</Priority>
+  </Event>
+  <Event>
+    <Title>Wesele</Title>
+    <Info>Ślub Oli i Mikołaja</Info>
+    <Date>2024-06-08T00:51:42</Date>
+    <Type>Przyjaciele</Type>
+    <Priority>Wysoki</Priority>
+  </Event>
+  <Event>
+    <Title>Mecz</Title>
+    <Info>Real vs Barcelona</Info>
+    <Date>2024-07-16T00:52:30</Date>
+    <Type>Rozrywka</Type>
+    <Priority>Średni</Priority>
+  </Event>
+</ArrayOfEvent>

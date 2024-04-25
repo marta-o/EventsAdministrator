@@ -1,0 +1,10 @@
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\obj\Debug\EventsAdministrator.csproj.AssemblyReference.cache
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\obj\Debug\EventsAdministrator.Properties.Resources.resources
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\obj\Debug\EventsAdministrator.EventView.resources
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\obj\Debug\EventsAdministrator.csproj.GenerateResource.cache
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\obj\Debug\EventsAdministrator.csproj.CoreCompileInputs.cache
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\bin\Debug\EventsAdministrator.exe.config
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\bin\Debug\EventsAdministrator.exe
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\bin\Debug\EventsAdministrator.pdb
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\obj\Debug\EventsAdministrator.exe
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\EventsAdministrator\EventsAdministrator\obj\Debug\EventsAdministrator.pdb
